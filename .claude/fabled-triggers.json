@@ -1,0 +1,25 @@
+{
+  "generated_by": "gen_trigger_table.py",
+  "triggers": [
+    {
+      "class": "fabled-analysis",
+      "skill": "fabled-analysis",
+      "pattern": "\\b(?:model|forecast|valuation|backtest|quantitative|analysis|computation|figures)\\w*"
+    },
+    {
+      "class": "fabled-code",
+      "skill": "fabled-code",
+      "pattern": "\\b(?:implement|fix|refactor|migrate|test|software|change|code|configuration|infrastructure)\\w*"
+    },
+    {
+      "class": "fabled-research",
+      "skill": "fabled-research",
+      "pattern": "\\b(?:research|investigate|compare|due\\-diligence|external|sources|memos|comparisons|cited|answers)\\w*"
+    },
+    {
+      "class": "fabled-writing",
+      "skill": "fabled-writing",
+      "pattern": "\\b(?:draft|documents|deck|content|emails|prose|voice|drafting)\\w*"
+    }
+  ]
+}

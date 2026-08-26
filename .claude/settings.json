@@ -1,0 +1,28 @@
+{
+  "extraKnownMarketplaces": {
+    "fabled": {
+      "source": {
+        "source": "github",
+        "repo": "laoganpapi/MASTER"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "fabled@fabled": true
+  },
+  "outputStyle": "fabled:fabled",
+  "effortLevel": "high",
+  "autoMemoryEnabled": false,
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(gh pr:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
