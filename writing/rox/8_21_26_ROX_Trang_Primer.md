@@ -50,8 +50,8 @@ A lender does not lend against the plant or the build cost. It lends against the
 3. Apply the lender's rule: cash must be at least 1.30 times the year's bill.
 4. The smallest year's answer is the raise.
 
-Worked once: 2027, the tightest year, clears $14.76m. Divided by 1.30, that year can afford a bill of $11.36m, which is exactly the bill on $87.6m of notes. One dollar more and 2027 breaks the rule. ($57.0m if the cap binds; the tight year is then 2041.)
+Worked once: 2027, the tightest year, clears $14.76m. Divided by 1.30, that year can afford a bill of $11.36m, which is exactly the bill on $87.6m of notes. One dollar more and 2027 breaks the rule. ($57.0m if the cap applies; the tight year is then 2041.)
 
-Totals do not matter: even if the cap binds the plant earns $180.1m against $102.1m owed over the term, 1.8 times, yet the weakest single year still caps the raise, because debt is paid year by year, not on average.
+Totals do not matter: even if the cap applies the plant earns $180.1m against $102.1m owed over the term, 1.8 times, yet the weakest single year still caps the raise, because debt is paid year by year, not on average.
 
-*Prepared by Republic. Figures from financing model v2.5, on ROX's production and cost data; nothing here replaces the executive memo.*
+*Prepared by Republic. Figures from financing model v2.6, on ROX's production and cost data; nothing here replaces the executive memo.*
