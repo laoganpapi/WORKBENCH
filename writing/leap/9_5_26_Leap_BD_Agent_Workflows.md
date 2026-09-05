@@ -28,11 +28,11 @@ All three workflows read the same pipeline data and use the same connectors, so 
 By her account, reporting to India is one of the three biggest drains on her week.
 
 - **Trigger.** Monday 07:00 Vietnam time, after the Sunday export and before her week starts.
-- **Reads.** This week's and last week's dated tabs; the `Targets` tab; the report template; her calendar; the week's rows in the `Agent` tab, once workflow 3 is live. Until then she supplies the wins and risks in three lines each.
+- **Reads.** This week's and last week's dated tabs; the `Targets` tab; the report template; her calendar; the week's rows in the `Agent` tab, once workflow 3 is live. Until then she writes the wins and risks, three lines each, in a "Wins and risks" section at the top of the report template doc before Monday 07:00, and the agent reads them there.
 - **Does.** Diffs the two tabs: new partners, stage moves, stale deals (Shared Plumbing definition), lost. Fills the KPI block HQ expects, assumed to be activations, referrals, conversions, and pipeline value, each against the team target (confirm the block with question 2). Lists the week's events and partner visits from her calendar. Pulls three wins and three risks from the `Agent` tab summaries. Writes the report in the template.
 - **Delivers.** A Gmail draft addressed to the HQ recipients (question 2), and a copy in Drive. Every number carries the tab and rows it came from. Anything the columns cannot support is marked "missing", never estimated.
 - **Approval.** Nothing is sent until she sends the draft. Fifteen minutes: correct the commentary, send.
-- **Measure.** Time from Monday 07:00 to the Gmail sent time (target under 30 minutes).
+- **Measure.** Time from Monday 07:00 to the sent time Gmail records on the message, read from her Sent folder (target under 30 minutes).
 - **To build it.** Her last four sent reports: the latest becomes the template, all four confirm the KPI definitions. The team targets. One to two days.
 
 ## 3. Call Notes into the CRM
