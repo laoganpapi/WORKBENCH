@@ -54,4 +54,4 @@ Worked once: 2027, the tightest year, clears $14.76m. Divided by 1.30, that year
 
 Totals do not matter: even if the cap applies the plant earns $180.1m against $102.1m owed over the term, 1.8 times, yet the weakest single year still caps the raise, because debt is paid year by year, not on average.
 
-*Prepared by Republic. Figures from financing model v2.6, on ROX's production and cost data; nothing here replaces the executive memo.*
+*Prepared by Republic. Figures from financing model v2.7, on ROX's production and cost data; nothing here replaces the executive memo.*
