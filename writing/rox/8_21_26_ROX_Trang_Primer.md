@@ -1,7 +1,7 @@
 # Four Answers for Trang
 
-ROX x Republic Advisory · 21 August 2026 · Confidential
-A two-page companion to the executive memo. Figures are the base case (no price cap, per ROX's stated position of 21 August); the capped figure follows in brackets where it differs.
+ROX x Republic Advisory · 1 September 2026 · Confidential
+A two-page companion to the executive memo. Figures are the base case: no price cap, per ROX's stated position, at the P50 production basis, the output beaten one year in two, set as the base by ROX on 1 September 2026, on ROX's own data. The capped figure follows in brackets where it differs.
 
 ## 1. The Cayman Company
 
@@ -20,10 +20,10 @@ Borrowing does not just cost the coupon. Taxes, fees, and money forced to sit id
 |---|---|---|
 | The coupon | 6.00 | 6.00% |
 | Withholding tax (the lender must net the full coupon, so ROX pays the 10% tax on top) | +0.67 | 6.67% |
-| Fees at close, $1.7m spent on day one | +0.50 | 7.17% |
-| The reserve: $3.51m locked for the term, earning nothing | +0.64 | 7.81% |
-| The guarantee fee and rating surveillance | +2.40 | 10.21% |
-| ROX protective capital: $2.71m of ROX cash locked beneath the notes | +0.86 | **11.07%** (11.45%) |
+| Fees at close, $1.8m spent on day one | +0.33 | 7.00% |
+| The reserve: $5.68m locked for the term, earning nothing | +0.74 | 7.74% |
+| The guarantee fee and rating surveillance | +2.26 | 10.00% |
+| ROX protective capital: $4.38m of ROX cash locked beneath the notes | +0.83 | **10.82%** (11.03%) |
 
 The coupon is what investors see. The all-in is what ROX pays.
 
@@ -34,10 +34,10 @@ The rating comes from the guarantor, so the guarantor must qualify. Five require
 | Requirement | MIGA | GuarantCo | ADB |
 |---|---|---|---|
 | Its own rating at single-A or better | AAA | A1 | AAA |
-| Capacity for the full $54.1m | Yes, to $250m | No, $40m | No, $25m |
+| Capacity for the full $87.6m | Yes, to $250m | No, $40m | No, $25m |
 | A pay-on-demand promise (pays when a coupon is due, without waiting for lawsuits) | To negotiate: its form has a waiting period | Closest | To negotiate |
 | A mandate covering a Kyrgyz private renewable borrower | Yes | Yes | Yes |
-| A fee below the saving (100–300 basis points against roughly 3 points saved) | Not published | Not published | Not published |
+| A fee below the saving (100 to 300 basis points against roughly 3 points saved) | Not published | Not published | Not published |
 
 Only MIGA carries the full base-case raise, so MIGA is the first call. None has been approached; every figure is a published term.
 
@@ -50,8 +50,8 @@ A lender does not lend against the plant or the build cost. It lends against the
 3. Apply the lender's rule: cash must be at least 1.30 times the year's bill.
 4. The smallest year's answer is the raise.
 
-Worked once: 2033, the tightest year, clears $8.58m. Divided by 1.30, that year can afford a bill of $6.60m, which is exactly the bill on $54.1m of notes. One dollar more and 2033 breaks the rule. ($33.9m if the cap binds; the tight year is then 2041.)
+Worked once: 2027, the tightest year, clears $14.76m. Divided by 1.30, that year can afford a bill of $11.36m, which is exactly the bill on $87.6m of notes. One dollar more and 2027 breaks the rule. ($57.0m if the cap applies; the tight year is then 2041.)
 
-Totals do not matter: if the cap binds the plant earns $110.4m against $60.8m owed over the term, 1.8 times, yet the weakest single year still caps the raise, because debt is paid year by year, not on average.
+Totals do not matter: even if the cap applies the plant earns $180.1m against $102.1m owed over the term, 1.8 times, yet the weakest single year still caps the raise, because debt is paid year by year, not on average.
 
-*Prepared by Republic. Figures from financing model v1.9; nothing here replaces the executive memo.*
+*Prepared by Republic. Figures from financing model v2.7, on ROX's production and cost data; nothing here replaces the executive memo.*
