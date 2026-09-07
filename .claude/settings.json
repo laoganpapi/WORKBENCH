@@ -11,6 +11,19 @@
     "fabled@fabled": true
   },
   "outputStyle": "fabled:fabled",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$HOME/.claude/plugins/marketplaces/fabled/fabled/scripts/refresh_install.sh\"",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  },
   "effortLevel": "high",
   "autoMemoryEnabled": false,
   "permissions": {
